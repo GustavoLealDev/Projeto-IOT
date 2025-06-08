@@ -52,6 +52,6 @@ Os dados registrados devem ser:
 
 | Nome | Data       | Entrada | Saída |
 | ---- | ---------- | ------- | ----- |
-| João | 08/06/2025 | 08:30   |       |
+| Gustavo | 08/06/2025 | 08:30   |       |
 
 
