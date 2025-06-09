@@ -8,8 +8,8 @@
 #include <ESP32Servo.h> 
 
 // ======= Configurações da rede e pinos =======
-const char* ssid = "CRF";                         // Nome da rede Wi-Fi
-const char* password = "leallyra";                // Senha da rede Wi-Fi
+const char* ssid = "";                         // Nome da rede Wi-Fi
+const char* password = "";                // Senha da rede Wi-Fi
 const char* host = "script.google.com";           //Google Apps Script
 const char* googleScriptId = "AKfycbzUx7yOfb8NndcbUj1bht7KR22vhXRHBdOzvCINxLI3QLP1dfZyWeWEDuiNthBDnaiT";
 const int httpsPort = 443; 
