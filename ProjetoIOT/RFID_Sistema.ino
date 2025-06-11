@@ -11,7 +11,7 @@
 const char* ssid = "";                         // Nome da rede Wi-Fi
 const char* password = "";                // Senha da rede Wi-Fi
 const char* host = "script.google.com";           //Google Apps Script
-const char* googleScriptId = "";
+const char* googleScriptId = "exemplo";
 const int httpsPort = 443; 
 
 #define SS_PIN 5
