@@ -54,6 +54,7 @@ Clone este repositório: https://github.com/GustavoLealDev/Projeto-IOT.git
 
 Os dados registrados devem ser:
 
-![image](https://github.com/user-attachments/assets/5149ac22-276f-4b14-b075-57dc42eb0992)
+![image](https://github.com/user-attachments/assets/48f6b8aa-0639-4ee1-88ae-5d801d7b94ae)
+
 
 
