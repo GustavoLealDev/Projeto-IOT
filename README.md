@@ -3,6 +3,10 @@
 
 Este projeto implementa uma fechadura eletrônica controlada por ESP32, utilizando leitor RFID (RC522) para autenticação. Ao aproximar um cartão ou chaveiro RFID autorizado, a fechadura é liberada. O sistema também pode registrar os acessos em uma planilha do Google Sheets via conexão Wi-Fi.
 
+
+![image](https://github.com/user-attachments/assets/5aa61893-2474-45ca-befd-5b6df37315b2)
+
+
 # 🛠️ Tecnologias Utilizadas
 
 - ESP32
