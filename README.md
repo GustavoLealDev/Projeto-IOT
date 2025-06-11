@@ -50,8 +50,6 @@ Clone este repositório: https://github.com/GustavoLealDev/Projeto-IOT.git
 
 Os dados registrados devem ser:
 
-| Nome | Data       | Entrada | Saída |
-| ---- | ---------- | ------- | ----- |
-| Gustavo | 08/06/2025 | 08:30   |       |
+![image](https://github.com/user-attachments/assets/5149ac22-276f-4b14-b075-57dc42eb0992)
 
 
